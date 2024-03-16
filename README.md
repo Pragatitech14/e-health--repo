@@ -1,4 +1,4 @@
-# 💻 Digital India e-Health Card
+# 💻 Digital India E-Health Card
 
 Welcome to the Digital India e-Health Card web application repository! Our project is dedicated to revolutionizing healthcare management by providing a seamless and comprehensive platform for patients and healthcare providers to interact efficiently. While we have Aadhar cards, PAN cards, voter IDs, and driving licenses for various transactions, a crucial missing piece is our health card. This card serves as a centralized repository for managing our day-to-day health history, including diseases, allergies, medications, and more.
 
@@ -24,9 +24,9 @@ By digitizing critical aspects of healthcare and incorporating advanced technolo
 
 ### 4. Patient Dashboard
 
-- View E-healthCard:
-   - Front view of E-HealthCard Displays patient name, photo, gender, DOB,  Health-ID, and QR code.
-   - Rear view of E-HealthCard Displays state, city, email, Health-ID
+- View E-health Card:
+   - Front view of E-Health Card Displays patient name, photo, gender, DOB,  Health-ID, and QR code.
+   - Rear view of E-Health Card Displays state, city, email, Health-ID
 - Health Report: Access and view health reports.
 - Update Medical Information: Edit or add medical information.
 - Add New Infected Disease: Report newly diagnosed diseases.

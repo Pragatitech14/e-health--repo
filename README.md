@@ -20,7 +20,7 @@ By digitizing critical aspects of healthcare and incorporating advanced technolo
 
 ### 3. Patient Login Page
 
-- Existing patients can log in using their credentials (username and password) to access their e-health card and other features securely.
+- Existing patients can log in using their credentials (username as health id and password) to access their e-health card and other features securely.
 
 ### 4. Patient Dashboard
 
